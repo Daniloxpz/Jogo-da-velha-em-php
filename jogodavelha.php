@@ -184,7 +184,7 @@ function maquinaJoga() {
     </style>
 </head>
 <body>      
-    <h2 style="text-align:center;">Jogo da Velha - Prof. Filipe Costa</h2>      
+    <h2 style="text-align:center;">Jogo da Velha</h2>      
     <div class="msg">         
         <?php              
             // Exibe a mensagem de acordo com a variável de sessão 'vitoria'
