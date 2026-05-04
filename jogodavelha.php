@@ -1,6 +1,6 @@
 <?php
 /* 
-Curso: Bacharelado em Ciência da Computação
+Curso: Sistemas de Informação
 Disciplina: Programação para Computadores 1
 Professor: Filipe Costa
 Aluno: Danilo Monteiro
